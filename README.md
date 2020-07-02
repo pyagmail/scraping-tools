@@ -1,4 +1,5 @@
 - https://towardsdatascience.com/how-to-web-scrape-in-8-minutes-4a100a672397
+- https://towardsdatascience.com/how-to-make-money-using-web-scraping-662f1c3da050
 
 ## Welcome to GitHub Pages
 
