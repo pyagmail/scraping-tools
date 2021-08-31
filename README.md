@@ -1,10 +1,11 @@
 - https://towardsdatascience.com/how-to-web-scrape-in-8-minutes-4a100a672397
 - https://towardsdatascience.com/how-to-make-money-using-web-scraping-662f1c3da050
 
+## Tools
 - https://github.com/pyagmail/Email-Scraper-1
 - https://github.com/pyagmail/PythonEmailScraper
 - https://github.com/pyagmail/mailingListScraper
-- 
+- https://github.com/pyagmail/MailSpotter
 
 ## Welcome to GitHub Pages
 
